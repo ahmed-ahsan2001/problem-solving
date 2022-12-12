@@ -1,0 +1,8 @@
+----------SECTION 03(triangles)----------
+1.Area of triangle.
+2.Solution of triangles.
+3.Circum radius and In radius of triangle.
+4.Enter angle to convert it into degree.
+5.Coordinates of centeriod and in centre of triangle.
+6.Return to previous menu.
+Enter your choice:

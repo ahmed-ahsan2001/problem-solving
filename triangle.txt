@@ -1,0 +1,14 @@
+   <A
+   /\
+  /  \
+c/    \b
+/______\
+<B   a  <C
+
+Solution of triangles
+1.All sides are given
+2.2 sides and 1 angle is given
+3.2 angles and 1 side is given
+4.All vertices are given
+5.Return back to previous menu
+Enter your choice:

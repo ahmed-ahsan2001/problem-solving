@@ -1,0 +1,12 @@
+---------Section 01(CONIC)---------
+1.Slope of a line
+2.Solving 2 simultaneous equations
+3.Solving 3 simultaneous equations
+4.Distance between 2 points
+5.Distance of a point from a line
+6.Circle
+7.Ellipse
+8.Hyperbola
+9.Parabola
+10.Return to main menu
+Enter your choice:

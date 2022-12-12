@@ -1,0 +1,13 @@
+    <A
+    /\
+   /  \
+ c/    \b
+ /______\
+<B   a  <C 
+AREA
+1.When all Vertices are given
+2.When 2 Sides 1 Angle are given
+3.When 1 Side 2 Angles are given
+4.When 3 sides are given
+5.Return to previous menu
+Enter your choice:
